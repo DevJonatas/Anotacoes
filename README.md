@@ -1,2 +1,3 @@
-# Anotacoes
-Aplicativo Android feito para armazenar anotações do usuário em ARQUIVO de texto.
+Annotations
+
+Android application made to store user annotations in text FILE.
